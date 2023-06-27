@@ -7,7 +7,9 @@ To run this project:
 We will see like this :
 ![image](https://github.com/Doccocaubai710/LaptopPricePrediction_MachineLearningProject/assets/112222605/18227eb6-0ead-41ef-ad46-6f4bbe57685f)
 After choose information, click "Predict Price" and you will get the prediction.
+
 ![image](https://github.com/Doccocaubai710/LaptopPricePrediction_MachineLearningProject/assets/112222605/0d2d44aa-4b1f-4e58-8d52-ed194c2bcad1)
+
 Hope you can do it . Thanks!
 
 
