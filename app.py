@@ -59,7 +59,7 @@ if st.button('Predict Price'):
     if ips == 'Yes':
         ips = 1
     else:
-        ips = 1
+        ips = 0
     
     X_res = int(resolution.split('x')[0])
     Y_res = int(resolution.split('x')[1])
