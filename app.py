@@ -67,7 +67,7 @@ if st.button('Predict Price'):
     query = np.array([company, type, ram, weight, touchscreen, ips, ppi, cpu, hdd, ssd,hybrid,flasto, gpu, os], dtype = object)
     
     query = query.reshape(1, 14)
-    st.title(int(np.exp(pipe.predict(query)[0])))
+    st.title(str(int(np.exp(pipe.predict(query)[0]))*286)+' VND')
     
     
 
