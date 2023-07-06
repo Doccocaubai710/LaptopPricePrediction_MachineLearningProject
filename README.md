@@ -1,4 +1,12 @@
 # LaptopPricePrediction_MachineLearningProject
+Welcome to our project. This is a project about laptop price prediction using some ML methods to estimate the price of a laptop. 
+Our team consists of 5 members:
+      1. Hoàng Minh Hoàng 20214900
+      2. Lê Trung Kiên 20214907
+      3. Nguyễn Trung Trực 20214936
+      4. Nguyễn Quang Pháp 20214921
+      5. Phạm Quang Trung 20214935
+
 To run this project: 
 1. With the Jupyter notebook: You can run it without setting anything. Note that in some version, the "sparse" was renamed to "sparse_output" , then you might need to modify the code.
 
