@@ -11,6 +11,9 @@ Our team consists of 5 members:
       4. Nguyễn Quang Pháp 20214921
       
       5. Phạm Quang Trung 20214935
+      
+Before running the project: 
+-You should "cd" to the corresponding folder "Source".
 
 To run this project: 
 1. With the Jupyter notebook: You can run it without setting anything. Note that in some version, the "sparse" was renamed to "sparse_output" , then you might need to modify the code.
@@ -22,7 +25,8 @@ We will see like this :
 ![image](https://github.com/Doccocaubai710/LaptopPricePrediction_MachineLearningProject/assets/112222605/18227eb6-0ead-41ef-ad46-6f4bbe57685f)
 After choose information, click "Predict Price" and you will get the prediction.
 
-![image](https://github.com/Doccocaubai710/LaptopPricePrediction_MachineLearningProject/assets/112222605/0d2d44aa-4b1f-4e58-8d52-ed194c2bcad1)
+![image](https://github.com/Doccocaubai710/LaptopPricePrediction_MachineLearningProject/assets/112222605/0a62d4af-7f7b-45f2-b643-962df1aea3a7)
+
 
 Hope you can do it . Thanks!
 
