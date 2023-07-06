@@ -13,7 +13,8 @@ Our team consists of 5 members:
       5. Phạm Quang Trung 20214935
       
 Before running the project: 
--You should "cd" to the corresponding folder "Source".
+
+>>>You should "cd" to the corresponding folder "Source".
 
 To run this project: 
 1. With the Jupyter notebook: You can run it without setting anything. Note that in some version, the "sparse" was renamed to "sparse_output" , then you might need to modify the code.
